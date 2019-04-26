@@ -1,7 +1,7 @@
 ## UCI Thyroid Classification - Python, Keras, scikit-learn, ANN
 
 This project is created for classification problem on UCI-Thyroid-Disease dataset. It uses ANN to make predictions. Prediction classes are:
- * 1-Hypethyroid
+ * 1-Hyperthyroid
  * 2-Subnormal
  * 3-Normal
 
