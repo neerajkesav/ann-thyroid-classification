@@ -40,7 +40,7 @@ These instructions will get you a brief idea on setting up the environment and r
       `python main.py` 
 
 
-Note: Model accuracy - on validation: 98.57% (0.41%) and on test data: 98.279%. As per the dataset information any model with accuracy >92% is considered as good one. Further improvement is definitely possible.
+Note: Model accuracy - on validation: 98.57% (0.41%) and on test data: 98.279%. As per the dataset information any model with accuracy >92% is considered as a good one. Further improvement is definitely possible.
 
 [ds]: <https://archive.ics.uci.edu/ml/datasets/thyroid+disease>
 
